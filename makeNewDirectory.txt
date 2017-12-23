@@ -1,0 +1,4 @@
+འདི་བེད་སྤྱོད་བྱས་ནས་སྒམ་བཟོ་དགོས  mkdir <སྒམ་མིང>SS
+git init  : git མགོ་འཛུགས
+git status : ད་ལྟི་གནས་སྟང་
+git add . : སྡོམ་པ་ adding to staging area.

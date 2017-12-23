@@ -2,3 +2,4 @@
 git init  : git མགོ་འཛུགས
 git status : ད་ལྟི་གནས་སྟང་
 git add . : སྡོམ་པ་ adding to staging area.
+git log : used to what commit has done.

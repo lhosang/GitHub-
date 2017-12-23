@@ -1,0 +1,4 @@
+git branch <ཡིག་ཆའི་མིང་ར> : used to get new branch: ཡན་ལག་གསར་པ་
+git branch: used to list out the branch : ཡན་ལགས་ག་ཚཽད་ཡོད་མིན་
+git checkout <ཡན་ལག་མིང> 
+Changed in branch
